@@ -1,1 +1,2 @@
 # Twoway_anova
+The Health Company, which provides  various  diet  plansto  lose weight  conducted  a  market  test experiment conducted on both Gender (M, F)and tested three different level of diets (A, B, C). Each combination off Gender and Diet gave a different impact on the weight after following a diet for 6 weeks. Given is the dataset comprises of 78 observations which contains columns of Gender, Diet , Pre-weight and weight after 6  weeks. Perform ANOVA on the dataset and interpret the results
